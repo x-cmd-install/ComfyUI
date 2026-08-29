@@ -1,0 +1,59 @@
+about:
+  description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+  license: GPL-3.0
+  homepage: https://www.comfy.org/
+  head: e7051b0
+  archived: false
+  latestVersion: v0.34.0
+  collectedAt: 2026-08-29T07:22:45Z
+timeline:
+  created: 2023-01-17
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-26
+popularity:
+  star: 130509
+  watcher: 789
+  fork: 15376
+  release: 154
+  contributor: 338
+  pullRequest: 1909
+  issue: 9219
+language:
+  Python: 11655727
+  GLSL: 35260
+  Batchfile: 1940
+  Mako: 689
+totalLine: 11693616
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 6
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 14
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-02
+    release: 33
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-03
+    release: 76
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
