@@ -1,0 +1,162 @@
+about:
+  description: "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+  license: GPL-3.0
+  homepage: https://www.comfy.org/
+  head: fbed745
+  archived: false
+  latestVersion: "v0.34.0"
+  collectedAt: 2026-09-07T03:51:40Z
+timeline:
+  created: 2023-01-17
+  lastCommit: 2026-09-07
+  lastRelease: 2026-08-26
+popularity:
+  star: 131817
+  watcher: 805
+  fork: 15544
+  release: 154
+  contributor: 344
+  pullRequest: 5228
+  issue: 9288
+language:
+  Python: 11942222
+  GLSL: 35260
+  Batchfile: 1940
+  Mako: 689
+totalBytes: 11980111
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 4
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-09
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-09
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-11
+    release: 28
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-12
+    release: 73
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 154
+  mergedPR: 3261
+  openPR: 611
+  closedIssue: 5081
+  openIssue: 4207
+  commit: 5894
+---
+path: /home/runner/.x-repo/github.com/comfyanonymous/ComfyUI
+collectedAt: 2026-09-07T03:51:53Z
+loc:
+  Json:
+    code: 1005486
+    comments: 0
+    blanks: 1
+    files: 133
+  Python:
+    code: 246174
+    comments: 8060
+    blanks: 41208
+    files: 818
+  Yaml:
+    code: 5490
+    comments: 0
+    blanks: 17
+    files: 1
+  Toml:
+    code: 67
+    comments: 3
+    blanks: 5
+    files: 1
+  Ini:
+    code: 15
+    comments: 62
+    blanks: 16
+    files: 2
+  Markdown:
+    code: 0
+    comments: 827
+    blanks: 286
+    files: 10
+  Text:
+    code: 0
+    comments: 494931
+    blanks: 1
+    files: 7
+total:
+  code: 1257269
+  comments: 503885
+  blanks: 41538
+  files: 972
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T03:51:59+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  ComfyUI_windows_portable_amd.7z
+      url:   https://github.com/Comfy-Org/ComfyUI/releases/download/v0.34.0/ComfyUI_windows_portable_amd.7z
+      size:  1817392344
+      score: 23
+    win/amd64:
+      name:  ComfyUI_windows_portable_amd.7z
+      url:   https://github.com/Comfy-Org/ComfyUI/releases/download/v0.34.0/ComfyUI_windows_portable_amd.7z
+      size:  1817392344
+      score: 23
