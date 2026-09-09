@@ -2,12 +2,12 @@ about:
   description: "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
   license: GPL-3.0
   homepage: https://www.comfy.org/
-  head: 672ba9e
+  head: 4989cdd
   archived: false
   latestVersion: "v0.34.0"
   latestRelease: "v0.34.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T03:59:29Z
+  collectedAt: 2026-09-09T18:32:54Z
 timeline:
   created: 2023-01-17
   lastCommit: 2026-09-09
@@ -15,19 +15,19 @@ timeline:
   lastRelease: 2026-08-26
   lastPrerelease: 
 popularity:
-  star: 132122
-  watcher: 805
-  fork: 15580
+  star: 132237
+  watcher: 806
+  fork: 15590
   release: 154
   contributor: 348
-  pullRequest: 5255
-  issue: 9297
+  pullRequest: 5268
+  issue: 9300
 language:
-  Python: 12066388
+  Python: 12084807
   GLSL: 35260
   Batchfile: 1940
   Mako: 689
-totalBytes: 12104277
+totalBytes: 12122696
 recent:
   last30d:
     since: 2026-08-10
@@ -79,24 +79,24 @@ recent:
     commit: 0
 total:
   release: 154
-  mergedPR: 3276
-  openPR: 616
-  closedIssue: 5095
-  openIssue: 4202
-  commit: 5909
+  mergedPR: 3283
+  openPR: 620
+  closedIssue: 5094
+  openIssue: 4206
+  commit: 5917
 ---
 path: /home/runner/.x-repo/github.com/comfyanonymous/ComfyUI
-collectedAt: 2026-09-09T03:59:38Z
+collectedAt: 2026-09-09T18:33:02Z
 loc:
   Json:
-    code: 1005486
+    code: 1064595
     comments: 0
     blanks: 1
-    files: 133
+    files: 155
   Python:
-    code: 248734
+    code: 249090
     comments: 8090
-    blanks: 41571
+    blanks: 41613
     files: 826
   Yaml:
     code: 5490
@@ -124,10 +124,10 @@ loc:
     blanks: 1
     files: 7
 total:
-  code: 1259829
+  code: 1319294
   comments: 503915
-  blanks: 41901
-  files: 980
+  blanks: 41943
+  files: 1002
 ---
 
 ---
