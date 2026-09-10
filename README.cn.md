@@ -4,7 +4,7 @@
 
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
-![ComfyUI](https://repo.x-cmd.io/ComfyUI.svg)
+![ComfyUI](https://repo.x-cmd.io/ComfyUI.svg?lang=zh)
 
 ## 安装
 
@@ -22,16 +22,14 @@ x install ComfyUI
 
 - **最新版本**: `v0.35.0` (2026-09-09)
 - **最近提交**: 2026-09-10
-- **Release 含资产**: 4 个
-- **发布时间**: 2026-09-09T19:55:08Z
 
 ## 流行度
 
-- **Star**: 132,276 · **Fork**: 15,600 · **开放 issue**: 9,304 · **贡献者**: 348
+- **Star**: 132,352 · **Fork**: 15,608 · **开放 issue**: 9,309 · **贡献者**: 348
 
 ## 累计统计
 
-- **发布数**: 155 · **已合并 PR**: 3286 · **开放 PR**: 623 · **已关闭 issue**: 5097 · **开放 issue**: 4207 · **提交数**: 5920
+- **发布数**: 155 · **已合并 PR**: 3286 · **开放 PR**: 625 · **已关闭 issue**: 5098 · **开放 issue**: 4211 · **提交数**: 5920
 
 ## 最近活动
 
@@ -62,4 +60,4 @@ ComfyUI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:59:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:56:29Z._

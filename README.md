@@ -22,16 +22,14 @@ x install ComfyUI
 
 - **Latest**: `v0.35.0` (2026-09-09)
 - **Last commit**: 2026-09-10
-- **Assets in release**: 4
-- **Published**: 2026-09-09T19:55:08Z
 
 ## Popularity
 
-- **Stars**: 132,276 · **Forks**: 15,600 · **Open issues**: 9,304 · **Contributors**: 348
+- **Stars**: 132,352 · **Forks**: 15,608 · **Open issues**: 9,309 · **Contributors**: 348
 
 ## Totals (cumulative)
 
-- **Releases**: 155 · **Merged PRs**: 3286 · **Open PRs**: 623 · **Closed issues**: 5097 · **Open issues**: 4207 · **Commits**: 5920
+- **Releases**: 155 · **Merged PRs**: 3286 · **Open PRs**: 625 · **Closed issues**: 5098 · **Open issues**: 4211 · **Commits**: 5920
 
 ## Recent activity
 
@@ -58,8 +56,8 @@ Total: **1,319,254** lines of code across **985** files in the top 5 languages.
 Install metadata for ComfyUI lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ComfyUI` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ComfyUI.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ComfyUI.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:59:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:28Z._
