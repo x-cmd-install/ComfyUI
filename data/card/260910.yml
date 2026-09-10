@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.35.0"
   latestRelease: "v0.35.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T03:58:49Z
+  collectedAt: 2026-09-10T15:56:03Z
 timeline:
   created: 2023-01-17
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 132276
-  watcher: 807
-  fork: 15600
+  star: 132352
+  watcher: 806
+  fork: 15608
   release: 155
   contributor: 348
-  pullRequest: 5276
-  issue: 9304
+  pullRequest: 5278
+  issue: 9309
 language:
   Python: 12083847
   GLSL: 35260
@@ -80,13 +80,13 @@ recent:
 total:
   release: 155
   mergedPR: 3286
-  openPR: 623
-  closedIssue: 5097
-  openIssue: 4207
+  openPR: 625
+  closedIssue: 5098
+  openIssue: 4211
   commit: 5920
 ---
 path: /home/runner/.x-repo/github.com/comfyanonymous/ComfyUI
-collectedAt: 2026-09-10T03:59:00Z
+collectedAt: 2026-09-10T15:56:14Z
 loc:
   Json:
     code: 1064595
