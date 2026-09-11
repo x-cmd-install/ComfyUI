@@ -14,12 +14,12 @@ x install ComfyUI
 
 ## Code insight
 
-Total: **1,319,434** lines of code across **985** files in the top 5 languages.
+Total: **1,320,054** lines of code across **986** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,064,595 | 0 | 1 | 155 |
-| Python | 249,267 | 8,089 | 41,665 | 826 |
+| Python | 249,887 | 8,087 | 41,753 | 827 |
 | Yaml | 5,490 | 0 | 17 | 1 |
 | Toml | 67 | 3 | 5 | 1 |
 | Ini | 15 | 62 | 16 | 2 |
@@ -38,11 +38,11 @@ Total: **1,319,434** lines of code across **985** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 132,440 · **Forks**: 15,614 · **Open issues**: 9,315 · **Contributors**: 348
+- **Stars**: 132,585 · **Forks**: 15,643 · **Open issues**: 9,321 · **Contributors**: 348
 
 ## Totals (cumulative)
 
-- **Releases**: 155 · **Merged PRs**: 3291 · **Open PRs**: 633 · **Closed issues**: 5098 · **Open issues**: 4217 · **Commits**: 5925
+- **Releases**: 155 · **Merged PRs**: 3295 · **Open PRs**: 643 · **Closed issues**: 5099 · **Open issues**: 4222 · **Commits**: 5927
 
 ## Recent activity
 
@@ -73,4 +73,4 @@ Install metadata for ComfyUI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T03:56:13Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:45:24Z._
