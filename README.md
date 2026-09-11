@@ -12,6 +12,18 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 x install ComfyUI
 ```
 
+## Code insight
+
+Total: **1,319,430** lines of code across **985** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 1,064,595 | 0 | 1 | 155 |
+| Python | 249,263 | 8,089 | 41,665 | 826 |
+| Yaml | 5,490 | 0 | 17 | 1 |
+| Toml | 67 | 3 | 5 | 1 |
+| Ini | 15 | 62 | 16 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/comfyanonymous/ComfyUI>
@@ -22,34 +34,35 @@ x install ComfyUI
 
 - **Latest**: `v0.35.0` (2026-09-09)
 - **Last commit**: 2026-09-10
+- **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 132,352 · **Forks**: 15,608 · **Open issues**: 9,309 · **Contributors**: 348
+- **Stars**: 132,402 · **Forks**: 15,609 · **Open issues**: 9,313 · **Contributors**: 348
 
 ## Totals (cumulative)
 
-- **Releases**: 155 · **Merged PRs**: 3286 · **Open PRs**: 625 · **Closed issues**: 5098 · **Open issues**: 4211 · **Commits**: 5920
+- **Releases**: 155 · **Merged PRs**: 3290 · **Open PRs**: 632 · **Closed issues**: 5098 · **Open issues**: 4215 · **Commits**: 5924
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 13 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 74 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-12 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 27 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 74 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 100 | 0 | 0 | 0 | 0 | 0 |
 
-## Code size
+## Release assets
 
-Total: **1,319,254** lines of code across **985** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 1,064,595 | 0 | 1 | 155 |
-| Python | 249,087 | 8,088 | 41,611 | 826 |
-| Yaml | 5,490 | 0 | 17 | 1 |
-| Toml | 67 | 3 | 5 | 1 |
-| Ini | 15 | 62 | 16 | 2 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ComfyUI_windows_portable_amd.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.35.0/ComfyUI_windows_portable_amd.7z) | 1.5 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_intel.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.35.0/ComfyUI_windows_portable_intel.7z) | 1.4 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_nvidia.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.35.0/ComfyUI_windows_portable_nvidia.7z) | 1.8 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_nvidia_cu126.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.35.0/ComfyUI_windows_portable_nvidia_cu126.7z) | 1.7 GiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -60,4 +73,4 @@ Install metadata for ComfyUI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:28Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:19:17Z._
