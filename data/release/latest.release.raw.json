@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1580620142,
       "digest": "sha256:2fa7d6538d9d0cfa1cdc64debda8c49886e4745043f7806ea45e87f6bd1daa87",
-      "download_count": 3403,
+      "download_count": 5175,
       "created_at": "2026-09-09T05:31:56Z",
       "updated_at": "2026-09-09T05:33:23Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.35.0/ComfyUI_windows_portable_amd.7z"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1497484009,
       "digest": "sha256:2b120e05d0c933c934bcaf66b540c4750d91a296dc250670ef6432096e1f8d55",
-      "download_count": 1466,
+      "download_count": 2070,
       "created_at": "2026-09-09T05:38:14Z",
       "updated_at": "2026-09-09T05:39:21Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.35.0/ComfyUI_windows_portable_intel.7z"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1910039517,
       "digest": "sha256:6fb005a8269c6f5972a8fb76d7a4fc251578ccc7906671a801b382591c791dd2",
-      "download_count": 28328,
+      "download_count": 39359,
       "created_at": "2026-09-09T05:23:40Z",
       "updated_at": "2026-09-09T05:24:58Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.35.0/ComfyUI_windows_portable_nvidia.7z"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1851932752,
       "digest": "sha256:ca35feb8292e0091f6b7cb4ca3abcc8e0e330a138cd1735e2836c044691e70f2",
-      "download_count": 4737,
+      "download_count": 6836,
       "created_at": "2026-09-09T05:53:12Z",
       "updated_at": "2026-09-09T05:54:12Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.35.0/ComfyUI_windows_portable_nvidia_cu126.7z"
