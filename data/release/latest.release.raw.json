@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1595844037,
       "digest": "sha256:563da2462a866f8fdf8ccd091a8c0e185e785394408735f8e99647593a67dd79",
-      "download_count": 9127,
+      "download_count": 10831,
       "created_at": "2026-09-20T16:00:31Z",
       "updated_at": "2026-09-20T16:01:44Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.37.0/ComfyUI_windows_portable_amd.7z"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1512836652,
       "digest": "sha256:1041af3a25ca2c7b3615db3027ca0fd40df37c1758c4e9955e762672193ac4cc",
-      "download_count": 3809,
+      "download_count": 4514,
       "created_at": "2026-09-20T16:05:08Z",
       "updated_at": "2026-09-20T16:06:08Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.37.0/ComfyUI_windows_portable_intel.7z"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1925204508,
       "digest": "sha256:7805f634fab51f63a238aaf0cfe2a9833bb7c86ddfc8400a60919f44460d7d65",
-      "download_count": 63654,
+      "download_count": 77523,
       "created_at": "2026-09-20T15:55:57Z",
       "updated_at": "2026-09-20T15:57:14Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.37.0/ComfyUI_windows_portable_nvidia.7z"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1867201814,
       "digest": "sha256:4f8c587c8319a3595dcdc6b8fbfc7234d2d02fa6b1a328c1ab3e819c97d95fb8",
-      "download_count": 8985,
+      "download_count": 11042,
       "created_at": "2026-09-20T16:10:25Z",
       "updated_at": "2026-09-20T16:11:47Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.37.0/ComfyUI_windows_portable_nvidia_cu126.7z"
@@ -186,8 +186,8 @@
   "body": "## What's Changed\r\n* Aimdo 0.5.5 + Auto-detect and enable --fast-disk when the disk is fast (CORE-440) by @rattus128 in https://github.com/Comfy-Org/ComfyUI/pull/16333\r\n* [Partner Nodes] feat(OpenAI): add transparent background support for GPT Image 2 by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16366\r\n* Add CFG control to YuE2 Generate Music node. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16373\r\n* Always put text encoder on GPU when dynamic vram on. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16374\r\n* [Partner Nodes] fix(Tripo): refuse a P2 run whose linked GLB or FBX output would be empty by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16369\r\n* feat: Support MoGe 3 (CORE-443) by @kijai in https://github.com/Comfy-Org/ComfyUI/pull/16381\r\n* Update comfy-kitchen version to 0.2.35 by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16385\r\n* chores: Update default width and height in EmptyLatentImage by @alexisrolland in https://github.com/Comfy-Org/ComfyUI/pull/16384\r\n* chores: Update nodes names and categories by @alexisrolland in https://github.com/Comfy-Org/ComfyUI/pull/16274\r\n* Qwen3/3.5/3.8 cudagraphs and w4a8 gemv support (CORE-390) by @kijai in https://github.com/Comfy-Org/ComfyUI/pull/15623\r\n* Fix issue with qwen speedup PR. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16389\r\n* Lower the pos embed precision of SheetSage2 to match upstream. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16395\r\n* [Partner Nodes] feat(client): send Idempotency-Key on partner-proxy calls and collect replays by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16220\r\n* Bump comfyui-frontend-package to 1.53.6 by @comfy-pr-bot in https://github.com/Comfy-Org/ComfyUI/pull/16386\r\n* Fix ace step VAE decode crashing on non bf16 GPUs. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16405\r\n* feat: Qwen-image 2.1 support (CORE-423) by @kijai in https://github.com/Comfy-Org/ComfyUI/pull/16400\r\n* Update embedded docs to v0.5.12 by @comfyui-wiki in https://github.com/Comfy-Org/ComfyUI/pull/16396\r\n* Lower wan peak vram when using comfy kitchen attention. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16418\r\n* Update workflow templates to v0.11.65 by @comfyui-wiki in https://github.com/Comfy-Org/ComfyUI/pull/16423\r\n* Add a way to disable fast disk for debugging. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16424\r\n* Update workflow templates to v0.11.66 by @comfyui-wiki in https://github.com/Comfy-Org/ComfyUI/pull/16426\r\n* [Partner Nodes] feat(Meshy): add Meshy 7.1 support by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16412\r\n* Fix MiniMax Music 3 producing noise with CUDA graphs enabled. by @RaynoldVanHeyningen in https://github.com/Comfy-Org/ComfyUI/pull/16428\r\n\r\n## New Contributors\r\n* @RaynoldVanHeyningen made their first contribution in https://github.com/Comfy-Org/ComfyUI/pull/16428\r\n\r\n**Full Changelog**: https://github.com/Comfy-Org/ComfyUI/compare/v0.36.0...v0.37.0",
   "reactions": {
     "url": "https://api.github.com/repos/Comfy-Org/ComfyUI/releases/392485194/reactions",
-    "total_count": 31,
-    "+1": 21,
+    "total_count": 32,
+    "+1": 22,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
