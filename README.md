@@ -14,13 +14,13 @@ x install ComfyUI
 
 ## Code insight
 
-Total: **1,346,876** lines of code across **1108** files in the top 5 languages.
+Total: **1,349,410** lines of code across **1121** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,070,991 | 0 | 1 | 160 |
-| Python | 270,330 | 8,178 | 45,719 | 944 |
-| Yaml | 5,473 | 0 | 17 | 1 |
+| Python | 272,859 | 8,203 | 46,215 | 957 |
+| Yaml | 5,478 | 0 | 17 | 1 |
 | Toml | 67 | 3 | 5 | 1 |
 | Ini | 15 | 62 | 16 | 2 |
 
@@ -32,37 +32,37 @@ Total: **1,346,876** lines of code across **1108** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.38.0` (2026-09-29)
-- **Last commit**: 2026-10-05
+- **Latest**: `v0.39.0` (2026-10-05)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 136,113 · **Forks**: 16,140 · **Open issues**: 9,449 · **Contributors**: 354
+- **Stars**: 136,240 · **Forks**: 16,159 · **Open issues**: 9,457 · **Contributors**: 355
 
 ## Totals (cumulative)
 
-- **Releases**: 158 · **Merged PRs**: 3444 · **Open PRs**: 767 · **Closed issues**: 5157 · **Open issues**: 4292 · **Commits**: 6079
+- **Releases**: 159 · **Merged PRs**: 3454 · **Open PRs**: 767 · **Closed issues**: 5160 · **Open issues**: 4297 · **Commits**: 6090
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-08 | 26 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-10 | 72 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-06 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-09 | 27 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-11 | 73 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-16 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ComfyUI_windows_portable_amd.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.38.0/ComfyUI_windows_portable_amd.7z) | 1.5 GiB | `native/win/x64` |
-| [ComfyUI_windows_portable_intel.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.38.0/ComfyUI_windows_portable_intel.7z) | 1.3 GiB | `native/win/x64` |
-| [ComfyUI_windows_portable_nvidia.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.38.0/ComfyUI_windows_portable_nvidia.7z) | 1.9 GiB | `native/win/x64` |
-| [ComfyUI_windows_portable_nvidia_cu126.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.38.0/ComfyUI_windows_portable_nvidia_cu126.7z) | 1.8 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_amd.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.39.0/ComfyUI_windows_portable_amd.7z) | 1.5 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_intel.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.39.0/ComfyUI_windows_portable_intel.7z) | 1.3 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_nvidia.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.39.0/ComfyUI_windows_portable_nvidia.7z) | 1.9 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_nvidia_cu126.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.39.0/ComfyUI_windows_portable_nvidia_cu126.7z) | 1.8 GiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for ComfyUI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T04:56:36Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T05:43:16Z._
