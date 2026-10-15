@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1627644722,
       "digest": "sha256:f3a58381de51872815f38dbd092ad2c829e3c8d528e03600e760514ae44d45fb",
-      "download_count": 385,
+      "download_count": 2547,
       "created_at": "2026-10-13T19:59:55Z",
       "updated_at": "2026-10-13T20:01:07Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.40.0/ComfyUI_windows_portable_amd.7z"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1442756969,
       "digest": "sha256:50ba3114a7b2119c35a1755c5749e2aad3d5da618278670555f80c392de0cc58",
-      "download_count": 174,
+      "download_count": 1038,
       "created_at": "2026-10-13T19:47:32Z",
       "updated_at": "2026-10-13T19:48:37Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.40.0/ComfyUI_windows_portable_intel.7z"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2009901495,
       "digest": "sha256:bc4dd972b7134347128579a34b1910f19a59d8a4c9fea7d8e4bae586bad68b0c",
-      "download_count": 2759,
+      "download_count": 19337,
       "created_at": "2026-10-13T19:44:23Z",
       "updated_at": "2026-10-13T19:46:01Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.40.0/ComfyUI_windows_portable_nvidia.7z"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1853065489,
       "digest": "sha256:2a5f20d26f7e95fcc1d8d58e3459009cbf88d73a75ea8a7db1189bff8f9cc915",
-      "download_count": 67,
+      "download_count": 425,
       "created_at": "2026-10-13T19:49:20Z",
       "updated_at": "2026-10-13T19:51:06Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.40.0/ComfyUI_windows_portable_nvidia_arm64.7z"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1901618627,
       "digest": "sha256:23d789979f523d90daae27da94a78769c17093cff1684e1e2d166b5148334c59",
-      "download_count": 1115,
+      "download_count": 3355,
       "created_at": "2026-10-13T20:12:51Z",
       "updated_at": "2026-10-13T20:14:12Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.40.0/ComfyUI_windows_portable_nvidia_cu126.7z"
@@ -222,15 +222,15 @@
   "body": "## What's Changed\r\n* [Server.py] Update CSP to allow `blob:` and `data:` by @S0yKaf in https://github.com/Comfy-Org/ComfyUI/pull/15565\r\n* Add comfy_attention and AttentionTensorContainer support to rest of models by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16806\r\n* Implement the asset export API locally (CORE-454) by @jtydhr88 in https://github.com/Comfy-Org/ComfyUI/pull/16578\r\n* Report 3D models from every 3D node as a standard 3d output item by @jtydhr88 in https://github.com/Comfy-Org/ComfyUI/pull/16200\r\n* feat(camera-info): CreateCameraInfo node + CameraInfoState widget input by @jtydhr88 in https://github.com/Comfy-Org/ComfyUI/pull/14964\r\n* feat(assets): extract video metadata into system_metadata on ingest and scan by @jtydhr88 in https://github.com/Comfy-Org/ComfyUI/pull/15180\r\n* Add a way to attach metadata to the websocket messages of a prompt. by @christian-byrne in https://github.com/Comfy-Org/ComfyUI/pull/16763\r\n* fix: preserve dynamic input validation and lazy execution by @jaeone94 in https://github.com/Comfy-Org/ComfyUI/pull/16377\r\n* refactor: keep DynamicGroup internal while stabilizing by @jaeone94 in https://github.com/Comfy-Org/ComfyUI/pull/16811\r\n* feat: add CameraAngle node with camera_info and shot prompt outputs by @jtydhr88 in https://github.com/Comfy-Org/ComfyUI/pull/16251\r\n* [Partner Nodes] feat(Google): add Nano Banana 2.1 model by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16822\r\n* Update workflow templates to v0.11.77 by @comfyui-wiki in https://github.com/Comfy-Org/ComfyUI/pull/16823\r\n* Improve low VRAM performance of qwen 3.5 LLM by @rattus128 in https://github.com/Comfy-Org/ComfyUI/pull/16820\r\n* Make k/v contiguous before SDPA on gfx1151 when they don't fit in L2 by @tvukovic-amd in https://github.com/Comfy-Org/ComfyUI/pull/16726\r\n* Consolidate Linear forward API with prologue/epilogue fusion paths by @rattus128 in https://github.com/Comfy-Org/ComfyUI/pull/16816\r\n* Also attach the metadata to a prompt's preview image frames. by @christian-byrne in https://github.com/Comfy-Org/ComfyUI/pull/16809\r\n* Add governance enforcement for custom nodes by @guill in https://github.com/Comfy-Org/ComfyUI/pull/16167\r\n* comfy_attention configs in model files can now use kitchen sol attention. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16831\r\n* Bump comfyui-frontend-package to 1.55.14 by @comfy-pr-bot in https://github.com/Comfy-Org/ComfyUI/pull/16736\r\n* [Partner Nodes] feat(Quiver): add V2 SVG nodes with per-model inputs and deprecate the originals by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16775\r\n* [Partner Nodes] feat(Vidu): add nodes for Vidu Q4 model by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16849\r\n* [Partner Nodes] feat(ClarityAI): add Crystal Upscaler node by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16817\r\n* [Partner Nodes] feat(Kling): add Kling Virtual Try-On node by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16844\r\n* Update workflow templates to v0.11.78 by @comfyui-wiki in https://github.com/Comfy-Org/ComfyUI/pull/16851\r\n* Change model code to use function wrappers for Linear calls by @rattus128 in https://github.com/Comfy-Org/ComfyUI/pull/16861\r\n* Fix issue with bypass loras and fused paths. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16862\r\n* Use PNG compress level 4 for GLB textures for faster saving by @kijai in https://github.com/Comfy-Org/ComfyUI/pull/16867\r\n* Comfy Aimdo 0.5.6 + Fix qwen 2.1 rogues in low VRAM conditions by @rattus128 in https://github.com/Comfy-Org/ComfyUI/pull/16870\r\n* Fix Qwen3.5 MTP embedding offload by @rattus128 in https://github.com/Comfy-Org/ComfyUI/pull/16877\r\n* Loras can now replace the per layer attention config on a model. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16880\r\n* Link related repositories in CodeRabbit reviews by @christian-byrne in https://github.com/Comfy-Org/ComfyUI/pull/16769\r\n* feat: add native LoRA stack loader nodes (CORE-186) by @jaeone94 in https://github.com/Comfy-Org/ComfyUI/pull/16309\r\n* Turn the assets system on by default; add --disable-assets by @synap5e in https://github.com/Comfy-Org/ComfyUI/pull/16884\r\n* [Partner Nodes] feat(HeyGen): add 2k resolution to HeyGen Video 1.0 nodes by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16876\r\n* Add LatentOperationBlend and start/end percent to LatentApplyOperatio… by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16923\r\n* Disable the output assets scanning. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16926\r\n* Enable MTP with images on Qwen3.5 by @kijai in https://github.com/Comfy-Org/ComfyUI/pull/16922\r\n* Decode MiniMax H3 single images as the first latent of a clip by @kijai in https://github.com/Comfy-Org/ComfyUI/pull/16881\r\n* fix(assets): date scanned assets by their file's mtime by @synap5e in https://github.com/Comfy-Org/ComfyUI/pull/16810\r\n* Enable compression on saved EXR. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16948\r\n* Fix issues with loading half float files with pyav. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16949\r\n* Keep linked repository findings focused by @christian-byrne in https://github.com/Comfy-Org/ComfyUI/pull/16920\r\n* Remove some outdated code. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16960\r\n* Turn assets off unless --enable-assets, and scan the output folder again by @synap5e in https://github.com/Comfy-Org/ComfyUI/pull/16929\r\n* Turn the assets system on for the Windows standalone build by @synap5e in https://github.com/Comfy-Org/ComfyUI/pull/16928\r\n* Add a ARM64 nvidia portable. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16985\r\n* Remove the cryptography package dependency. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16988\r\n* Update embedded docs to v0.5.14 by @comfyui-wiki in https://github.com/Comfy-Org/ComfyUI/pull/16981\r\n* [Partner Nodes] feat(Higgsfield): Genjutsu Motion Transfer node by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16913\r\n* feat(assets): previews for EXR assets, written by SaveImageAdvanced for outputs by @synap5e in https://github.com/Comfy-Org/ComfyUI/pull/16898\r\n* [Partner Nodes] feat(FishAudio): add Drama 3 model by @bigcat88 in https://github.com/Comfy-Org/ComfyUI/pull/16999\r\n* Update workflow templates to v0.11.82 by @comfyui-wiki in https://github.com/Comfy-Org/ComfyUI/pull/17001\r\n* Bump comfyui-frontend-package to 1.55.17 by @AustinMroz in https://github.com/Comfy-Org/ComfyUI/pull/17004\r\n\r\n## New Contributors\r\n* @S0yKaf made their first contribution in https://github.com/Comfy-Org/ComfyUI/pull/15565\r\n\r\n**Full Changelog**: https://github.com/Comfy-Org/ComfyUI/compare/v0.39.0...v0.40.0",
   "reactions": {
     "url": "https://api.github.com/repos/Comfy-Org/ComfyUI/releases/412046223/reactions",
-    "total_count": 9,
-    "+1": 3,
+    "total_count": 26,
+    "+1": 13,
     "-1": 0,
     "laugh": 0,
-    "hooray": 2,
+    "hooray": 3,
     "confused": 0,
-    "heart": 2,
+    "heart": 7,
     "rocket": 0,
-    "eyes": 2
+    "eyes": 3
   },
   "mentions_count": 14
 }
