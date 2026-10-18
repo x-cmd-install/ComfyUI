@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1627801471,
       "digest": "sha256:7dd91dec08f4bf6d76adeb9aae0920f2d7ac6101f60be72063b76f86fc67dfb1",
-      "download_count": 2512,
+      "download_count": 4962,
       "created_at": "2026-10-15T16:29:59Z",
       "updated_at": "2026-10-15T16:31:31Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.41.0/ComfyUI_windows_portable_amd.7z"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1442748194,
       "digest": "sha256:5f2107e2e2cf86ce9eff3f769507028fd55cebc5972930756fb5dc3558f058b3",
-      "download_count": 1116,
+      "download_count": 2065,
       "created_at": "2026-10-15T16:31:06Z",
       "updated_at": "2026-10-15T16:32:25Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.41.0/ComfyUI_windows_portable_intel.7z"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2010075321,
       "digest": "sha256:7ff446d6904a9eecdfa07870a06238cc33a6204dcd31726edc6783efd080ac34",
-      "download_count": 18927,
+      "download_count": 36165,
       "created_at": "2026-10-15T16:23:51Z",
       "updated_at": "2026-10-15T16:25:09Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.41.0/ComfyUI_windows_portable_nvidia.7z"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1853240417,
       "digest": "sha256:b06891cbd7d0d0af4b73852386b23ebd4a98f0f695f1d1c4cceb3d60ddfc410e",
-      "download_count": 760,
+      "download_count": 1244,
       "created_at": "2026-10-15T16:27:36Z",
       "updated_at": "2026-10-15T16:28:59Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.41.0/ComfyUI_windows_portable_nvidia_arm64.7z"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1901799620,
       "digest": "sha256:a6160054bf1f17367bdfa4cac33f176fc275771c0edbcc20ec58c75c39de19af",
-      "download_count": 3025,
+      "download_count": 5564,
       "created_at": "2026-10-15T16:54:41Z",
       "updated_at": "2026-10-15T16:56:27Z",
       "browser_download_url": "https://github.com/Comfy-Org/ComfyUI/releases/download/v0.41.0/ComfyUI_windows_portable_nvidia_cu126.7z"
@@ -222,8 +222,8 @@
   "body": "## What's Changed\r\n* Add ImageSDRToHDR node. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/16990\r\n* feat: Add a core route for the default workflow (CORE-340) by @alexisrolland in https://github.com/Comfy-Org/ComfyUI/pull/16956\r\n* Add ReferenceMultiLatent node. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/17009\r\n* Disable the LoRA stack nodes until the frontend supports DynamicGroup by @jaeone94 in https://github.com/Comfy-Org/ComfyUI/pull/17050\r\n* Improve ReferenceMultiLatent UX a bit. by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/17053\r\n* Revert \"Disable the LoRA stack nodes until the frontend supports DynamicGroup\" by @comfyanonymous in https://github.com/Comfy-Org/ComfyUI/pull/17054\r\n* Support MiniMax-H3 LightVAE by @kijai in https://github.com/Comfy-Org/ComfyUI/pull/17049\r\n* Add nodes to get Latent Geometries by @rattus128 in https://github.com/Comfy-Org/ComfyUI/pull/16093\r\n* feat: Add Flux3-image model support (CORE-388) by @kijai in https://github.com/Comfy-Org/ComfyUI/pull/17064\r\n* Update workflow templates to v0.11.84 by @comfyui-wiki in https://github.com/Comfy-Org/ComfyUI/pull/17065\r\n\r\n\r\n**Full Changelog**: https://github.com/Comfy-Org/ComfyUI/compare/v0.40.0...v0.41.0",
   "reactions": {
     "url": "https://api.github.com/repos/Comfy-Org/ComfyUI/releases/414025918/reactions",
-    "total_count": 16,
-    "+1": 6,
+    "total_count": 18,
+    "+1": 8,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
