@@ -14,12 +14,12 @@ x install ComfyUI
 
 ## Code insight
 
-Total: **1,356,270** lines of code across **1162** files in the top 5 languages.
+Total: **1,356,691** lines of code across **1163** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,071,397 | 0 | 1 | 161 |
-| Python | 279,297 | 8,476 | 47,595 | 997 |
+| Python | 279,718 | 8,474 | 47,702 | 998 |
 | Yaml | 5,494 | 0 | 17 | 1 |
 | Toml | 67 | 3 | 5 | 1 |
 | Ini | 15 | 62 | 16 | 2 |
@@ -32,38 +32,38 @@ Total: **1,356,270** lines of code across **1162** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.41.0` (2026-10-15)
+- **Latest**: `v0.42.1` (2026-10-19)
 - **Last commit**: 2026-10-18
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 138,083 · **Forks**: 16,451 · **Open issues**: 9,553 · **Contributors**: 355
+- **Stars**: 138,776 · **Forks**: 16,509 · **Open issues**: 9,562 · **Contributors**: 355
 
 ## Totals (cumulative)
 
-- **Releases**: 161 · **Merged PRs**: 3526 · **Open PRs**: 883 · **Closed issues**: 5202 · **Open issues**: 4351 · **Commits**: 6163
+- **Releases**: 163 · **Merged PRs**: 3536 · **Open PRs**: 901 · **Closed issues**: 5202 · **Open issues**: 4360 · **Commits**: 6174
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-19 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-20 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-21 | 25 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-23 | 73 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-19 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-20 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-21 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-22 | 27 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-24 | 75 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-29 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ComfyUI_windows_portable_amd.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.41.0/ComfyUI_windows_portable_amd.7z) | 1.5 GiB | `native/win/x64` |
-| [ComfyUI_windows_portable_intel.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.41.0/ComfyUI_windows_portable_intel.7z) | 1.3 GiB | `native/win/x64` |
-| [ComfyUI_windows_portable_nvidia.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.41.0/ComfyUI_windows_portable_nvidia.7z) | 1.9 GiB | `native/win/x64` |
-| [ComfyUI_windows_portable_nvidia_arm64.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.41.0/ComfyUI_windows_portable_nvidia_arm64.7z) | 1.7 GiB | `native/win/arm64` |
-| [ComfyUI_windows_portable_nvidia_cu126.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.41.0/ComfyUI_windows_portable_nvidia_cu126.7z) | 1.8 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_amd.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.42.1/ComfyUI_windows_portable_amd.7z) | 1.5 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_intel.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.42.1/ComfyUI_windows_portable_intel.7z) | 1.4 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_nvidia.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.42.1/ComfyUI_windows_portable_nvidia.7z) | 1.9 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_nvidia_arm64.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.42.1/ComfyUI_windows_portable_nvidia_arm64.7z) | 1.7 GiB | `native/win/arm64` |
+| [ComfyUI_windows_portable_nvidia_cu126.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.42.1/ComfyUI_windows_portable_nvidia_cu126.7z) | 1.8 GiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for ComfyUI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T03:52:38Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:02:11Z._
