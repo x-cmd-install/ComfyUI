@@ -14,12 +14,12 @@ x install ComfyUI
 
 ## Code insight
 
-Total: **1,364,741** lines of code across **1188** files in the top 5 languages.
+Total: **1,364,911** lines of code across **1188** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,071,397 | 0 | 1 | 161 |
-| Python | 287,611 | 8,661 | 48,861 | 1023 |
+| Python | 287,781 | 8,659 | 48,873 | 1023 |
 | Yaml | 5,651 | 0 | 17 | 1 |
 | Toml | 67 | 3 | 5 | 1 |
 | Ini | 15 | 62 | 16 | 2 |
@@ -33,27 +33,27 @@ Total: **1,364,741** lines of code across **1188** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.43.0` (2026-10-27)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 144,032 · **Forks**: 17,083 · **Open issues**: 9,650 · **Contributors**: 359
+- **Stars**: 144,229 · **Forks**: 17,127 · **Open issues**: 9,651 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 164 · **Merged PRs**: 3606 · **Open PRs**: 964 · **Closed issues**: 5225 · **Open issues**: 4425 · **Commits**: 6246
+- **Releases**: 164 · **Merged PRs**: 3608 · **Open PRs**: 968 · **Closed issues**: 5228 · **Open issues**: 4423 · **Commits**: 6248
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-01 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-03 | 27 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-04 | 75 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-09 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-01 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-01 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-02 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-04 | 27 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-05 | 75 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-10 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for ComfyUI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:06:55Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T04:53:19Z._
