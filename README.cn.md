@@ -14,12 +14,12 @@ x install ComfyUI
 
 ## 代码洞察
 
-合计: **1,374,752** 行代码（覆盖前 5 种语言、共 **1215** 个文件）。
+合计: **1,375,407** 行代码（覆盖前 5 种语言、共 **1217** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 1,071,397 | 0 | 1 | 161 |
-| Python | 297,622 | 8,878 | 50,239 | 1050 |
+| Python | 298,277 | 8,872 | 50,306 | 1052 |
 | Yaml | 5,651 | 0 | 17 | 1 |
 | Toml | 67 | 3 | 5 | 1 |
 | Ini | 15 | 62 | 16 | 2 |
@@ -32,38 +32,38 @@ x install ComfyUI
 
 ## 发布
 
-- **最新版本**: `v0.45.0` (2026-11-10)
-- **最近提交**: 2026-11-17
+- **最新版本**: `v0.46.0` (2026-11-18)
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 147,247 · **Fork**: 17,586 · **开放 issue**: 9,761 · **贡献者**: 362
+- **Star**: 147,564 · **Fork**: 17,646 · **开放 issue**: 9,776 · **贡献者**: 362
 
 ## 累计统计
 
-- **发布数**: 166 · **已合并 PR**: 3709 · **开放 PR**: 1050 · **已关闭 issue**: 5257 · **开放 issue**: 4504 · **提交数**: 6350
+- **发布数**: 167 · **已合并 PR**: 3725 · **开放 PR**: 1067 · **已关闭 issue**: 5262 · **开放 issue**: 4514 · **提交数**: 6367
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 26 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 73 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-20 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 14 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 27 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 74 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-29 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ComfyUI_windows_portable_amd.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.45.0/ComfyUI_windows_portable_amd.7z) | 1.6 GiB | `native/win/x64` |
-| [ComfyUI_windows_portable_intel.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.45.0/ComfyUI_windows_portable_intel.7z) | 1.4 GiB | `native/win/x64` |
-| [ComfyUI_windows_portable_nvidia.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.45.0/ComfyUI_windows_portable_nvidia.7z) | 1.9 GiB | `native/win/x64` |
-| [ComfyUI_windows_portable_nvidia_arm64.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.45.0/ComfyUI_windows_portable_nvidia_arm64.7z) | 1.8 GiB | `native/win/arm64` |
-| [ComfyUI_windows_portable_nvidia_cu126.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.45.0/ComfyUI_windows_portable_nvidia_cu126.7z) | 1.8 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_amd.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.46.0/ComfyUI_windows_portable_amd.7z) | 1.6 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_intel.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.46.0/ComfyUI_windows_portable_intel.7z) | 1.4 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_nvidia.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.46.0/ComfyUI_windows_portable_nvidia.7z) | 1.9 GiB | `native/win/x64` |
+| [ComfyUI_windows_portable_nvidia_arm64.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.46.0/ComfyUI_windows_portable_nvidia_arm64.7z) | 1.8 GiB | `native/win/arm64` |
+| [ComfyUI_windows_portable_nvidia_cu126.7z](https://github.com/comfyanonymous/ComfyUI/releases/download/v0.46.0/ComfyUI_windows_portable_nvidia_cu126.7z) | 1.8 GiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ ComfyUI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T07:20:51Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T06:46:56Z._
