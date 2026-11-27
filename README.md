@@ -14,12 +14,12 @@ x install ComfyUI
 
 ## Code insight
 
-Total: **1,378,996** lines of code across **1225** files in the top 5 languages.
+Total: **1,379,561** lines of code across **1226** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,071,397 | 0 | 1 | 161 |
-| Python | 301,838 | 8,888 | 50,659 | 1060 |
+| Python | 302,403 | 8,887 | 50,801 | 1061 |
 | Yaml | 5,679 | 0 | 17 | 1 |
 | Toml | 67 | 3 | 5 | 1 |
 | Ini | 15 | 62 | 16 | 2 |
@@ -38,22 +38,22 @@ Total: **1,378,996** lines of code across **1225** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 148,663 · **Forks**: 17,720 · **Open issues**: 9,807 · **Contributors**: 365
+- **Stars**: 148,818 · **Forks**: 17,734 · **Open issues**: 9,809 · **Contributors**: 365
 
 ## Totals (cumulative)
 
-- **Releases**: 167 · **Merged PRs**: 3779 · **Open PRs**: 1121 · **Closed issues**: 5273 · **Open issues**: 4534 · **Commits**: 6420
+- **Releases**: 167 · **Merged PRs**: 3782 · **Open PRs**: 1128 · **Closed issues**: 5275 · **Open issues**: 4534 · **Commits**: 6423
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 27 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 71 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-28 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 27 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 71 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-07 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for ComfyUI lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T07:40:46Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T07:39:32Z._
